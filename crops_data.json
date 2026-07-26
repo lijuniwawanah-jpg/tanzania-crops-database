@@ -194,7 +194,7 @@
       "name": "Bamia (Okra)",
       "scientificName": "Abelmoschus esculentus",
       "category": "Mboga za matunda",
-      "description": "Zao la mboga lenye kukua haraka na soko zuri.",
+      "description": "Zao la mboga lenye kukua haraka and soko zuri.",
       "plantingSeason": "Mwaka mzima",
       "harvestTime": "Miezi 2-3",
       "steps": [
@@ -254,7 +254,7 @@
         },
         {
           "title": "2. Utunzaji",
-          "details": "Geuza mizizi na palilia magugu."
+          "details": "Geuza mizizi and palilia magugu."
         },
         {
           "title": "3. Uvunaji",
@@ -781,7 +781,7 @@
       "name": "Ufuta (Sesame)",
       "scientificName": "Sesamum indicum",
       "category": "Mafuta na viungo",
-      "description": "Zao la mafuta lenye soko la nje, hasa kanda ya Pwani na Tanga.",
+      "description": "Zao la mafuta lenye soko ya nje, hasa kanda ya Pwani na Tanga.",
       "plantingSeason": "Januari - Februari",
       "harvestTime": "Miezi 3-4",
       "steps": [
@@ -910,7 +910,7 @@
       "disease": "Ugonjwa wa kutu wa kahawa (Coffee Leaf Rust)",
       "symptoms": "Madoa ya njano na machungwa kwenye majani, majani kuanguka.",
       "treatment": "Puliza dawa ya Copper fungicide, kata matawi yaliyoathirika.",
-      "prevention": "Panda aina zinazostahimili, hakikisha kivuli na mzunguko."
+      "prevention": "Panda aina zinazostahimili, hakikisha kivuli and mzunguko."
     },
     {
       "id": "korosho_ugonjwa",
@@ -1005,7 +1005,7 @@
     },
     {
       "id": "news_9",
-      "title": "Viazi vitamu vya mradi wa Tanga yasafirishwa Kenya",
+      "title": "Viazi vitamu vya mradi vya Tanga yasafirishwa Kenya",
       "summary": "Wakulima wa viazi vitamu Tanga wameanza kusafirisha mazao yao nchini Kenya baada ya kupata soko.",
       "source": "East African Business",
       "date": "2024-10-28",
